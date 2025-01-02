@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 28,
+      "gender": "Male",
+      "address": "123 Main St, New York, NY",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 32,
+      "gender": "Female",
+      "address": "456 Elm St, Los Angeles, CA",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Ali Khan",
+      "email": "alikhan@example.com",
+      "age": 25,
+      "gender": "Male",
+      "address": "789 Oak St, Houston, TX",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Maria Gonzalez",
+      "email": "mariagonzalez@example.com",
+      "age": 29,
+      "gender": "Female",
+      "address": "101 Pine St, Miami, FL",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "davidbrown@example.com",
+      "age": 35,
+      "gender": "Male",
+      "address": "202 Maple St, Chicago, IL",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "name": "Emily Johnson",
+      "email": "emilyjohnson@example.com",
+      "age": 27,
+      "gender": "Female",
+      "address": "303 Cedar St, Seattle, WA",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "name": "Michael Lee",
+      "email": "michaellee@example.com",
+      "age": 31,
+      "gender": "Male",
+      "address": "404 Birch St, Austin, TX",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "email": "sophiamartinez@example.com",
+      "age": 24,
+      "gender": "Female",
+      "address": "505 Cherry St, Denver, CO",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "name": "Liam O'Connor",
+      "email": "liamoconnor@example.com",
+      "age": 26,
+      "gender": "Male",
+      "address": "606 Walnut St, San Francisco, CA",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "name": "Ava Wilson",
+      "email": "avawilson@example.com",
+      "age": 30,
+      "gender": "Female",
+      "address": "707 Poplar St, Portland, OR",
+      "isActive": false
+    }
+  ]
+  
