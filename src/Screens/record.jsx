@@ -71,14 +71,14 @@ const RecordScreen = () => {
                         <p>{ data.address.street } - { data.address.suite }, { data.address.city }</p>
                     </div>
 
-                    <div className="flex my-0.5">
+                    {/* <div className="flex my-0.5">
                         <p className="text-base font-bold mr-1.5 min-w-20">Phone:</p>
                         <p 
                             className='font-medium px-2.5 rounded-sm text-white' 
                         >
                             { data.phone }
                         </p>
-                    </div>
+                    </div> */}
 
                 </div>
             }
